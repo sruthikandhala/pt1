@@ -1,1 +1,1 @@
-# pt1
+# Amazon Alexa Periodic Table skill using Java
